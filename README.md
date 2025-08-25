@@ -25,7 +25,7 @@ I enjoy creating projects that blend **clean UI, seamless UX, and strong backend
 ## Featured Projects
 **PawZee** - (https://pawzee-pet-shop-frontend.onrender.com/) – E-commerce Pet Shop (MERN Stack)  
 **Spotify Clone** - (https://spotify-1-7f5v.onrender.com/) – Music Streaming Web App (MERN Stack, Cloudinary)  
-**Mixtas** - (https://mixtas-ard.netlify.app/) – Responsive Dress Shop Website (React + Bootstrap)  
+**Mixtas** - (https://mixtas.onrender.com/) – Responsive Dress Shop Website (React + Bootstrap)  
 **Spicy Hut** - (https://spicy-hut-ard.netlify.app/) – Restaurant Website (HTML, CSS, Bootstrap, JS)  
 
 ---
