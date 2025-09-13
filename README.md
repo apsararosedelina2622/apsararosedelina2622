@@ -26,12 +26,13 @@ I enjoy creating projects that blend **clean UI, seamless UX, and strong backend
 **PawZee** - (https://pawzee-pet-shop-frontend.onrender.com/) – E-commerce Pet Shop (MERN Stack)  
 **Spotify Clone** - (https://spotify-1-7f5v.onrender.com/) – Music Streaming Web App (MERN Stack, Cloudinary)  
 **Mixtas** - (https://mixtas-ard.vercel.com/) – Responsive Dress Shop Website (React + Bootstrap)  
-**Spicy Hut** - (https://spicy-hut-ard.netlify.app/) – Restaurant Website (HTML, CSS, Bootstrap, JS)  
+**Spicy Hut** - (https://spicy-hut-ard.vercel.app/) – Restaurant Website (HTML, CSS, Bootstrap, JS)  
 
 ---
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Apsara%20Rose%20Delina-blue?logo=linkedin)](https://www.linkedin.com/in/apsara-rose-delina/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-orange?logo=react)]([https://your-portfolio-link.com](https://portfolio-ard-ten.vercel.app/))
 
 ---
 
