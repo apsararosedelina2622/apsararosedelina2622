@@ -32,7 +32,7 @@ I enjoy creating projects that blend **clean UI, seamless UX, and strong backend
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Apsara%20Rose%20Delina-blue?logo=linkedin)](https://www.linkedin.com/in/apsara-rose-delina/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-orange?logo=react)]([https://your-portfolio-link.com](https://my-portfolio-ard.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-orange?logo=react)](https://my-portfolio-ard.vercel.app/))
 
 ---
 
