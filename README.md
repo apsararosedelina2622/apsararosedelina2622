@@ -15,18 +15,17 @@ I enjoy creating projects that blend **clean UI, seamless UX, and strong backend
 ---
 
 ## Tech Stack
-**Frontend:** HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | Jquery | React.js  
+**Frontend:** HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | JQuery | React.js  
 **Backend:** Node.js | Express.js  
 **Database:** MongoDB | Mongoose  
-**Tools & Platforms:** Git | GitHub | VS Code  
+**Tools & Platforms:** Git | GitHub | VS Code | Vercel
 
 ---
 
 ## Featured Projects
-**PawZee** - (https://pawzee-pet-shop-frontend.onrender.com/) – E-commerce Pet Shop (MERN Stack)  
-**Spotify Clone** - (https://spotify-1-7f5v.onrender.com/) – Music Streaming Web App (MERN Stack, Cloudinary)  
+**PawZee** - (https://pawzee-pet-ard.vercel.app/) – E-commerce Pet Shop (MERN Stack)  
+**Spotify Clone** - (https://spotify-clone-ard.vercel.app/) – Music Streaming Web App (MERN Stack, Cloudinary)  
 **Mixtas** - (https://mixtas-ard.vercel.com/) – Responsive Dress Shop Website (React + Bootstrap)  
-**Spicy Hut** - (https://spicy-hut-ard.vercel.app/) – Restaurant Website (HTML, CSS, Bootstrap, JS)  
 
 ---
 
